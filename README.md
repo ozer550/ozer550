@@ -2,8 +2,6 @@
 
 Trying to think code.
 ### 📬  Get in touch
-
- - [Instagram](https://www.instagram.com/ozey550/).
  - [LinkedIn](https://www.linkedin.com/in/prathamesh-desai-750672196/)
 
 ## &#x1f4c8; My GitHub Stats
