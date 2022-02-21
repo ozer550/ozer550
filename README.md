@@ -1,6 +1,14 @@
 ### Hi there 👋
+I am Prathamesh desai, A software craftsman who has his heart in Architecture and designs.
 
-Trying to think code.
+
+### Work and Blogs
+
+#### Work And Experience
+https://portfolio-prathamesh.herokuapp.com/
+#### My Blogs
+https://portfolio-prathamesh.herokuapp.com/blog/
+
 ### 📬  Get in touch
  - [LinkedIn](https://www.linkedin.com/in/prathamesh-desai-750672196/)
 
