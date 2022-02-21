@@ -13,7 +13,7 @@ Trying to think code.
 ## 
 
 <a href="https://github.com/ozer550/ozer550">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozer619&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozer550&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 
 <!--
