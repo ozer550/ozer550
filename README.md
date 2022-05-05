@@ -5,9 +5,9 @@ I am Prathamesh desai, A software craftsman who has his heart in Architecture an
 ### Work and Blogs
 
 #### Work And Experience
-https://portfolio-prathamesh.herokuapp.com/
+https://prathamesh-desai.herokuapp.com/
 #### My Blogs
-https://portfolio-prathamesh.herokuapp.com/blog/
+https://prathamesh-desai.herokuapp.com/blog/
 
 ### 📬  Get in touch
  - [LinkedIn](https://www.linkedin.com/in/prathamesh-desai-750672196/)
