@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Prathamesh desai, A software craftsman who has his heart in Architecture and designs.
-Currently working as GSoC 2022 student developer at https://github.com/learningequality 
+Currently working as **GSoC 2022 student developer** at https://github.com/learningequality 
 
 ### Work and Blogs
 
